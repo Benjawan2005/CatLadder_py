@@ -173,5 +173,5 @@ button_reset.pack(pady=5)
 # เริ่มการตั้งค่าเกม
 root.after(100, setup_game)
 
-# เริ่ม UI 50 555000
+# เริ่ม UI
 root.mainloop()
